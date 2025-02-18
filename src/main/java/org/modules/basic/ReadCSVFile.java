@@ -8,7 +8,7 @@ import java.io.IOException;
 public class ReadCSVFile {
     public static void main(String[] args) throws IOException {
         try{
-            BufferedReader br = new BufferedReader(new FileReader("csvfile.csv"));
+            BufferedReader br = new BufferedReader(new FileReader("readFile.csv"));
             String line;
             while ((line = br.readLine()) != null) {
                 String arr[] = line.split(",");
