@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="425ec227-3425-4801-bcb5-8011f625e12f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/PracticeProblems/ReadJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/PracticeProblems/objectToJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mergedjson.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/PracticeProblems/MergeJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/PracticeProblems/ReadJSON.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JSON/PracticeProblems/ReadJson.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MergeJSON.executor": "Run",
+    "Application.ReadJSON.executor": "Run",
     "Application.ReadJson.executor": "Run",
     "Application.objectToJson.executor": "Run",
     "Application.studentJson.executor": "Run",
