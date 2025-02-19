@@ -1,0 +1,91 @@
+[
+
+    {
+      "name": "Nishant",
+      "age": 25,
+      "gender": "male"
+    },
+    {
+      "name": "Pankaj",
+      "age": 26,
+      "gender": "male"
+    },
+    {
+      "name": "Katrina Kaif",
+      "age": 29,
+      "gender": "female"
+    },
+    {
+      "name": "Amit",
+      "age": 32,
+      "gender": "male"
+    },
+    {
+      "name": "Priya",
+      "age": 24,
+      "gender": "female"
+    },
+    {
+      "name": "Rahul",
+      "age": 28,
+      "gender": "male"
+    },
+    {
+      "name": "Ananya",
+      "age": 23,
+      "gender": "female"
+    },
+    {
+      "name": "Siddharth",
+      "age": 30,
+      "gender": "male"
+    },
+    {
+      "name": "Sonam",
+      "age": 27,
+      "gender": "female"
+    },
+    {
+      "name": "Arjun",
+      "age": 26,
+      "gender": "male"
+    },
+    {
+      "name": "Deepika",
+      "age": 31,
+      "gender": "female"
+    },
+    {
+      "name": "Rohan",
+      "age": 22,
+      "gender": "male"
+    },
+    {
+      "name": "Meera",
+      "age": 29,
+      "gender": "female"
+    },
+    {
+      "name": "Karan",
+      "age": 33,
+      "gender": "male"
+    },
+    {
+      "name": "Alia",
+      "age": 25,
+      "gender": "female"
+    },
+    {
+      "name": "Varun",
+      "age": 28,
+      "gender": "male"
+    },
+    {
+      "name": "Ritika",
+      "age": 26,
+      "gender": "female"
+    }
+
+
+
+  ]
