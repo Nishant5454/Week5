@@ -1,4 +1,5 @@
-package org.json.practiceProblems;
+
+package org.JSON.PracticeProblems;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
