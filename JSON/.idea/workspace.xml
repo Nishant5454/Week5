@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="425ec227-3425-4801-bcb5-8011f625e12f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/filteredJson.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parsjson.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/PracticeProblems/ParsingJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadandPrint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/handsOnProblems/ReadJson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
