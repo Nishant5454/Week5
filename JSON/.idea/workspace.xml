@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="425ec227-3425-4801-bcb5-8011f625e12f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/json1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mergedjson.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/PracticeProblems/MergeJSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/PracticeProblems/ReadJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/JSON/PracticeProblems/ReadJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/JSON/PracticeProblems/validateJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/JSON/PracticeProblems/validateJson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +26,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2tFRdkfq4hKaRtu7EH2N5W893pI" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,6 +45,7 @@
     "Application.ReadJson.executor": "Run",
     "Application.objectToJson.executor": "Run",
     "Application.studentJson.executor": "Run",
+    "Application.validateJson.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "day2",
