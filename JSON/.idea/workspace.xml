@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="425ec227-3425-4801-bcb5-8011f625e12f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/filter.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/handsOnProblems/filteredJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/handsOnProblems/MergeJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/handsOnProblems/ValidateEmail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.json" beforeDir="false" afterPath="$PROJECT_DIR$/user.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +42,17 @@
   "keyToString": {
     "Application.JsonArray.executor": "Run",
     "Application.MergeJSON.executor": "Run",
+    "Application.MergeJson.executor": "Run",
     "Application.ParsingJson.executor": "Run",
     "Application.ReadJSON.executor": "Run",
     "Application.ReadJson.executor": "Run",
+    "Application.ValidateEmail.executor": "Run",
     "Application.filteredJson.executor": "Run",
     "Application.javatoJson.executor": "Run",
     "Application.objectToJson.executor": "Run",
     "Application.parsingJson.executor": "Run",
     "Application.studentJson.executor": "Run",
+    "Application.validateEmail.executor": "Run",
     "Application.validateJson.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
