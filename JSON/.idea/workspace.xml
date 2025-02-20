@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="425ec227-3425-4801-bcb5-8011f625e12f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/handsOnProblems/CsvtoJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/JSON/handsOnProblems/JsonDatabase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,7 @@
   "keyToString": {
     "Application.CsvtoJson.executor": "Run",
     "Application.JsonArray.executor": "Run",
+    "Application.JsonDatabase.executor": "Run",
     "Application.JsontoXML.executor": "Run",
     "Application.MergeJSON.executor": "Run",
     "Application.MergeJson.executor": "Run",
